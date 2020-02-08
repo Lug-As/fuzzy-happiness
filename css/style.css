@@ -9,3 +9,6 @@ a {
 a:hover {
 	color: #E71FE9;
 }
+.btn {
+	display: block;
+}
